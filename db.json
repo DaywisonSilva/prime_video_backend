@@ -9,42 +9,50 @@
         {
           "episode": "Episódio 1",
           "title": "Já estava na hora",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_1.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_1.jpg",
+          "duration": "22:30"
         },
         {
           "episode": "Episódio 2",
           "title": "Ou vai ou racha",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_2.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_2.jpg",
+          "duration": "21:12"
         },
         {
           "episode": "Episódio 3",
           "title": "Quem você chamou de feia?",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_3.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_3.jpg",
+          "duration": "23:41"
         },
         {
           "episode": "Episódio 4",
           "title": "Problemas em Marte",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_4.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_4.jpg",
+          "duration": "22:13"
         },
         {
           "episode": "Episódio 5",
           "title": "Essa doeu de verdade",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_5.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_5.jpg",
+          "duration": "24:49"
         },
         {
           "episode": "Episódio 6",
           "title": "Eu só quero o progresso",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_6.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_6.jpg",
+          "duration": "21:26"
         },
         {
           "episode": "Episódio 7",
           "title": "Precisamos conversar",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_7.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_7.jpg",
+          "duration": "20:59"
         },
         {
           "episode": "Episódio 8",
           "title": "A verdade",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_8.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/invincible/episodes/episode_8.jpg",
+          "duration": "20:39"
         }
       ]
     },
@@ -57,42 +65,50 @@
         {
           "episode": "Episódio 1",
           "title": "O nome do jogo",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_1.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_1.jpg",
+          "duration": "22:30"
         },
         {
           "episode": "Episódio 2",
           "title": "Cherry",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_2.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_2.jpg",
+          "duration": "21:12"
         },
         {
           "episode": "Episódio 3",
           "title": "Na Fisura",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_3.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_3.jpg",
+          "duration": "23:41"
         },
         {
           "episode": "Episódio 4",
           "title": "A fêmea da espécie",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_4.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_4.jpg",
+          "duration": "22:13"
         },
         {
           "episode": "Episódio 5",
           "title": "Bom para a alma",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_5.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_5.jpg",
+          "duration": "24:49"
         },
         {
           "episode": "Episódio 6",
           "title": "Os inocentes",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_6.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_6.jpg",
+          "duration": "21:26"
         },
         {
           "episode": "Episódio 7",
           "title": "Sociedade da autopreservação",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_7.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_7.jpg",
+          "duration": "20:59"
         },
         {
           "episode": "Episódio 8",
           "title": "Achou!",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_8.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/theboys/episodes/episode_8.jpg",
+          "duration": "20:39"
         }
       ]
     },
@@ -105,37 +121,44 @@
         {
           "episode": "Episódio 1",
           "title": "Seja bem-vindo, sr. Brown",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_1.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_1.jpg",
+          "duration": "22:30"
         },
         {
           "episode": "Episódio 2",
           "title": "Jantar comemorativo",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_2.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_2.jpg",
+          "duration": "21:12"
         },
         {
           "episode": "Episódio 3",
           "title": "Robin Hood",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_3.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_3.jpg",
+          "duration": "23:41"
         },
         {
           "episode": "Episódio 4",
           "title": "Dia da família",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_4.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_4.jpg",
+          "duration": "22:13"
         },
         {
           "episode": "Episódio 5",
           "title": "Mind Frisk",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_5.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_5.jpg",
+          "duration": "24:49"
         },
         {
           "episode": "Episódio 6",
           "title": "O passeio",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_6.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_6.jpg",
+          "duration": "21:26"
         },
         {
           "episode": "Episódio 7",
           "title": "Download",
-          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_7.jpg"
+          "image": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/upload/episodes/episode_7.jpg",
+          "duration": "20:59"
         }
       ]
     }

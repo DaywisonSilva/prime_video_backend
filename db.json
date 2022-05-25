@@ -162,5 +162,54 @@
         }
       ]
     }
+  ],
+  "content": [
+    {
+      "id": 4,
+      "name": "Johnwick",
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/johnwick/johnwick-card.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Johnwick",
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/johnwick/johnwick-card.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Extraordinário",
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/extraordinario/extraordinario-card.png"
+    },
+    {
+      "id": 7,
+      "name": "Todo mundo odeia o Chris",
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/everybodyhateschris/everybodyhateschris-card.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Todo mundo odeia o Chris",
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/everybodyhateschris/everybodyhateschris-card.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dois homens e meio",
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/twoandahalfman/twoandahalfmen.jpg"
+    }
+  ],
+  "channels": [
+    {
+      "id": 10,
+      "name": "Premiere",
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/premiere/premiere.png"
+    },
+    {
+      "id": 11,
+      "name": "STARZ Play",
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/starzplay/starzplay.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Discovery +",
+      "url_card": "https://github.com/DaywisonSilva/prime_video_assets/blob/main/discovery+/discoveryplus.jpeg?raw=true"
+    }
   ]
 }

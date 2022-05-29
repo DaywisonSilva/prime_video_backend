@@ -167,22 +167,26 @@
     {
       "id": 4,
       "name": "Johnwick",
-      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/johnwick/johnwick-card.jpg"
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/johnwick/johnwick-card.jpg",
+      "duration": "1h 53min"
     },
     {
       "id": 5,
       "name": "Extraordinário",
-      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/extraordinario/extraordinario-card.png"
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/extraordinario/extraordinario-card.png",
+      "duration": "2h 27min"
     },
     {
       "id": 6,
       "name": "Todo mundo odeia o Chris",
-      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/everybodyhateschris/everybodyhateschris-card.jpg"
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/everybodyhateschris/everybodyhateschris-card.jpg",
+      "duration": "1h 43min"
     },
     {
       "id": 7,
       "name": "Dois homens e meio",
-      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/twoandahalfman/twoandahalfmen.jpg"
+      "url_card": "https://raw.githubusercontent.com/DaywisonSilva/prime_video_assets/main/twoandahalfman/twoandahalfmen.jpg",
+      "duration": "2h 05min"
     }
   ],
   "channels": [
